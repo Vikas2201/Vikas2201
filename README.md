@@ -9,5 +9,5 @@
 
 
 ### ✉️ Find me on
-<img src="https://www.linkedin.com/in/vikas-a74441190/">
+https://www.linkedin.com/in/vikas-a74441190/
 
