@@ -9,6 +9,5 @@
 
 
 ### ✉️ Find me on
-<img src="vikas2212000@gmail.com">
-<img src="https://www.linkedin.com/in/vikas-a74441190">
+<img src="https://www.linkedin.com/in/vikas-a74441190/">
 
