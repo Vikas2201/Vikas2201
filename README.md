@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola, I'm Vikas! 👋
 
-<!--
-**Vikas2201/Vikas2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎓 I’m Currently Pursuing Bachelor Degree In Mathematics And Computing From Netaji Subhas University Of Technology (NSUT) College, New Delhi.
+- 🌱 I'm Currently Learning From Coursera, Ineuron , GUVI And Kaggle.
+- 💻 I'm looking for an internship in Machine Learning & Data Analysis domain.
+- 🎯 Goal (2023): Contribute openly to Data Science and Machine Learning community.
+- 📌 Scroll down to see my Pinned Repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ✉️ Find me on
+<img src="vikas2212000@gmail.com">
+<img src="https://www.linkedin.com/in/vikas-a74441190">
+
