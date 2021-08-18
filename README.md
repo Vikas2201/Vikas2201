@@ -9,11 +9,11 @@
 
 
 ### ✉️ Find me on
-Linkedin : https://www.linkedin.com/in/vikas-a74441190/
+Linkedin : <img src = "https://www.linkedin.com/in/vikas-a74441190/">
 
 📚⚡ Github Stats
 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vikas2201&theme=radical&show_icons=true">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas2201&layout=compact">
+
