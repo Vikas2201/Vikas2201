@@ -16,3 +16,4 @@ Linkedin : https://www.linkedin.com/in/vikas-a74441190/
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vikas2201&theme=radical&show_icons=true">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas2201&langs_count=8">
