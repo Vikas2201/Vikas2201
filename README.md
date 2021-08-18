@@ -9,7 +9,7 @@
 
 
 ### ✉️ Find me on
-Linkedin : <img src = "https://www.linkedin.com/in/vikas-a74441190/">
+Linkedin : https://www.linkedin.com/in/vikas-a74441190/
 
 📚⚡ Github Stats
 
