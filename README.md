@@ -17,13 +17,21 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="http://www.cplusplus.org/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/76476273/130354971-ec5c45ec-bdf3-43ac-a472-3bba581052a0.png)" alt="cplusplus" width="40" height="40"/> </a>  </p>
+<a href="http://www.cplusplus.org/" target="_blank"> <img src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg" alt="cplusplus" width="40" height="40"/> </a>  </p>
 
 ### ✉️ Find me on
 
 <a href="https://www.linkedin.com/in/vikas-a74441190/">
   <img align="left" alt="Vikas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+
+
+
+
+
+
+
 
 
 📚⚡ Github Stats
