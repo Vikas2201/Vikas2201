@@ -1,6 +1,7 @@
 ## Hola, I'm Vikas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 ![](https://visitor-badge.glitch.me/badge?page_id=Vikas2201.Vikas2201)
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## About me<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -14,7 +15,6 @@
 - 📝 [Resume](https://drive.google.com/file/d/1m3Mi6VtcUkKlz-MlYBXztYeCgGzDHNi0/view?usp=sharing)
 - ✉️ Find me on Linkedin   <a href="https://www.linkedin.com/in/vikas-a74441190/">  <img alt="Vikas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
@@ -27,8 +27,8 @@
 ⚡ Github Stats
  
 <p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas2201&show_icons=true&theme=gotham" alt="Vikas2201" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikas2201&theme=radical&show_icons=true" alt="Vikas2201" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas2201&show_icons=true&theme=gotham" alt="Vikas2201" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikas2201&theme=radical&show_icons=true" alt="Vikas2201" width="500" />
 </p>  
 
 
