@@ -8,13 +8,16 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🎓 I’m Currently Pursuing Bachelor Degree In Mathematics And Computing From Netaji Subhas University Of Technology (NSUT) College, New Delhi.
-- 🌱 I'm Currently Learning From Coursera, Ineuron , GUVI And Kaggle.
+- 👯 I’m looking to collaborate on projects
+- 🔭 I’m currently working on various projects and myself
 - 💻 I'm looking for an internship in Machine Learning & Data Analysis domain.
 - 🎯 Goal (2023): Contribute openly to Data Science and Machine Learning community.
 - 📌 Scroll down to see my Pinned Repositories.
 - 💬 Ask me about anything, I am happy to help.
 - 📝 [Resume](https://drive.google.com/file/d/1m3Mi6VtcUkKlz-MlYBXztYeCgGzDHNi0/view?usp=sharing)
 - ✉️ Find me on Linkedin   <a href="https://www.linkedin.com/in/vikas-a74441190/">  <img alt="Vikas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+- <a href="https://www.hackerrank.com/vikas2212000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayan_sadhukhan21" height="30" width="40" /></a>
+<a href="https://leetcode.com/Vikas4555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayan2809" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,7 +35,7 @@
 
 
 
-<h2⚡ Github Stats</h2>
+<h3>⚡ Github Stats</h3>
 --------------------------------------------------------
  
 <p align="center">
