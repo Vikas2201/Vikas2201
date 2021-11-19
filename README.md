@@ -32,13 +32,9 @@
 
 
 
-⚡ Github Stats
+<h2⚡ Github Stats</h2>
+--------------------------------------------------------
  
-<p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas2201&show_icons=true&theme=gotham" alt="Vikas2201" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikas2201&theme=radical&show_icons=true" alt="Vikas2201" width="500" />
-</p>
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Vikas2201&theme=darkhub">
 <br><br>
