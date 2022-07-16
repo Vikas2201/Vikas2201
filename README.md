@@ -7,15 +7,15 @@
 ## About me<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🎓 I’m Currently Pursuing Bachelor Degree In Mathematics And Computing From Netaji Subhas University Of Technology (NSUT) College, New Delhi.
+- 🎓 I’m Currently Pursuing Bachelor Degree In Computer Science And Engineering Specialization in Mathematics (Mathematics And Computing) From Netaji Subhas University Of Technology (NSUT) College, New Delhi.
 - 👯 I’m looking to collaborate on projects
 - 🔭 I’m currently working on various projects and myself
 - 💻 I'm looking for an internship in Machine Learning & Data Analysis domain.
 - 🎯 Goal (2023): Contribute openly to Data Science and Machine Learning community.
 - 📌 Scroll down to see my Pinned Repositories.
 - 💬 Ask me about anything, I am happy to help.
-- 📝 [Resume](https://drive.google.com/file/d/1i9o515NkHs4b_XTtaqcwrkggJtzKrhGV/view?usp=sharing)
-- ✉️ Find me on Linkedin   <a href="https://www.linkedin.com/in/vikas-a74441190/">  <img alt="Vikas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+- 📝 [Resume](https://drive.google.com/file/d/1GW0_POzYmte5e9u5kJSpucqK4YF-IwK8/view?usp=sharing)
+- ✉️ Find me on Linkedin :-  <a href="https://www.linkedin.com/in/vikas-a74441190/">  <img alt="Vikas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 - LeetCode Profile Link :-  <a href="https://leetcode.com/Vikas4555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayan2809" height="30" width="40" /></a>
 - Hackerrank Profile Link :- <a href="https://www.hackerrank.com/vikas2212000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayan_sadhukhan21" height="30" width="40" /></a>
 
