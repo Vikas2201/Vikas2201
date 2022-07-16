@@ -16,8 +16,8 @@
 - 💬 Ask me about anything, I am happy to help.
 - 📝 [Resume](https://drive.google.com/file/d/1i9o515NkHs4b_XTtaqcwrkggJtzKrhGV/view?usp=sharing)
 - ✉️ Find me on Linkedin   <a href="https://www.linkedin.com/in/vikas-a74441190/">  <img alt="Vikas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-- <a href="https://www.hackerrank.com/vikas2212000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayan_sadhukhan21" height="30" width="40" /></a>
-<a href="https://leetcode.com/Vikas4555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayan2809" height="30" width="40" /></a>
+- LeetCode Profile Link :-  <a href="https://leetcode.com/Vikas4555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayan2809" height="30" width="40" /></a>
+- Hackerrank Profile Link :- <a href="https://www.hackerrank.com/vikas2212000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayan_sadhukhan21" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools</h3>
