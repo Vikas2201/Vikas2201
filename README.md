@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on projects
 - 🔭 I’m currently working on various projects and myself
 - 💻 I'm looking for an internship in Machine Learning & Data Analysis domain.
-- 🎯 Goal (2023): Contribute openly to Data Science and Machine Learning community.
+- 🎯 Goal (2023): Contribute openly to Data Science and Machine Learning and also in software Engineer community.
 - 📌 Scroll down to see my Pinned Repositories.
 - 💬 Ask me about anything, I am happy to help.
 - 📝 [Resume](https://drive.google.com/file/d/1GW0_POzYmte5e9u5kJSpucqK4YF-IwK8/view?usp=sharing)
