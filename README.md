@@ -14,7 +14,7 @@
 - 🎯 Goal (2023): Contribute openly to Data Science and Machine Learning and also in software Engineer community.
 - 📌 Scroll down to see my Pinned Repositories.
 - 💬 Ask me about anything, I am happy to help.
-- 📝 [Resume](https://drive.google.com/file/d/1mJ426zWRd_mgqD3OYPALt1mpdWfJbN4K/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1j8wxN2aAwjuqqoylyDA24rPO-5-9BCC4/view?usp=sharing)
 - ✉️ Find me on Linkedin :-  <a href="https://www.linkedin.com/in/vikas-a74441190/">  <img alt="Vikas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 - LeetCode Profile Link :-  <a href="https://leetcode.com/Vikas4555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayan2809" height="30" width="40" /></a>
 - Hackerrank Profile Link :- <a href="https://www.hackerrank.com/vikas2212000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayan_sadhukhan21" height="30" width="40" /></a>
